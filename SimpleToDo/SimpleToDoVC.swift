@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainVC.swift
 //  SimpleToDo
 //
 //  Created by Marc Cruz on 1/11/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainVC: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
